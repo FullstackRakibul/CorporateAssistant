@@ -91,8 +91,8 @@
                   </div>
                   <div>
                     <h3 class="font-semibold text-slate-900 mb-1">Phone</h3>
-                    <p class="text-slate-600">For Business Inquiries: +1 (555) 123-4567</p>
-                    <p class="text-slate-600">For Job Seekers: +1 (555) 123-4568</p>
+                    <p class="text-slate-600">For Business Inquiries: +880 1581 500678 </p>
+                    <p class="text-slate-600">For Job Seekers: +88 01717 599528</p>
                   </div>
                 </div>
 
@@ -106,8 +106,8 @@
                   </div>
                   <div>
                     <h3 class="font-semibold text-slate-900 mb-1">Email</h3>
-                    <p class="text-slate-600">info@corporateassistant.com</p>
-                    <p class="text-slate-600">careers@corporateassistant.com</p>
+                    <p class="text-slate-600">rakibul.it@hameemgroup.com</p>
+                    <p class="text-slate-600">rakibul.cse.47@gmail.com</p>
                   </div>
                 </div>
 
